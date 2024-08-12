@@ -9,7 +9,7 @@ IntelliJ IDEA에서 Spring MVC(maven) 프로젝트를 생성하여 배포 파일
 
 ### 💡 Made by
 
-| <img src="https://github.com/skLee-HGU.png" width="230" height="220"/> |
+| <img src="https://github.com/Vinodi-skLee.png" width="230" height="220"/> |
 | :-----------------------------------: |
 |            **Sunkyung Lee**           |
 
